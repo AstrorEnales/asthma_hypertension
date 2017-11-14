@@ -1,7 +1,644 @@
 chrom	pos	rsid	rsid_reported	gene	tissue	source	cis_trans	CHR_ID	CHR_POS	MAPPED_GENE	CONTEXT	P-VALUE	DISEASE/TRAIT	PUBMEDID
+1	113189053.0	rs10745332	rs10745332	RHOC	whole blood	Westra et al.	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	rs10745332	RHOC	whole blood	Westra et al.	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	rs10745332	RHOC	whole blood	Westra et al.	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	rs10745332	CAPZA1	whole blood	Joehanes et al.	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	rs10745332	CAPZA1	whole blood	Joehanes et al.	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	rs10745332	CAPZA1	whole blood	Joehanes et al.	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	rs10745332	ST7L	whole blood	Joehanes et al.	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	rs10745332	ST7L	whole blood	Joehanes et al.	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	rs10745332	ST7L	whole blood	Joehanes et al.	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	rs10745332	BAZ2B	whole blood	Joehanes et al.	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	rs10745332	BAZ2B	whole blood	Joehanes et al.	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	rs10745332	BAZ2B	whole blood	Joehanes et al.	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	.	RP4-671G15.2	Brain_Cerebellum	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	.	RP4-671G15.2	Brain_Cerebellum	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	.	RP4-671G15.2	Brain_Cerebellum	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Nerve_Tibial	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	.	ST7L	Nerve_Tibial	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Nerve_Tibial	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	.	RP4-671G15.2	Brain_Cortex	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	.	RP4-671G15.2	Brain_Cortex	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	.	RP4-671G15.2	Brain_Cortex	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Artery_Aorta	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	.	ST7L	Artery_Aorta	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Artery_Aorta	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Adipose_Subcutaneous	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	.	ST7L	Adipose_Subcutaneous	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Adipose_Subcutaneous	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	.	WNT2B	Lung	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	.	WNT2B	Lung	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	.	WNT2B	Lung	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Thyroid	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	.	ST7L	Thyroid	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Thyroid	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Whole_Blood	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	.	ST7L	Whole_Blood	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Whole_Blood	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	.	CAPZA1	Lung	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	.	CAPZA1	Lung	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	.	CAPZA1	Lung	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	.	RP4-671G15.2	Nerve_Tibial	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	.	RP4-671G15.2	Nerve_Tibial	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	.	RP4-671G15.2	Nerve_Tibial	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Heart_Left_Ventricle	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	.	ST7L	Heart_Left_Ventricle	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Heart_Left_Ventricle	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Lung	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	.	ST7L	Lung	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Lung	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Testis	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	.	ST7L	Testis	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Testis	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Muscle_Skeletal	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	.	ST7L	Muscle_Skeletal	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Muscle_Skeletal	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	.	CAPZA1	Nerve_Tibial	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	.	CAPZA1	Nerve_Tibial	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	.	CAPZA1	Nerve_Tibial	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Cells_Transformed_fibroblasts	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Hypertension	25249183
+1	113189053.0	rs10745332	.	ST7L	Cells_Transformed_fibroblasts	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	3e-09	Systolic blood pressure	25249183
+1	113189053.0	rs10745332	.	ST7L	Cells_Transformed_fibroblasts	GTEx_v6	cis	1	112646431	CAPZA1	intron_variant	8e-08	Diastolic blood pressure	25249183
+1	113216543.0	rs2932538	rs2932538	RHOC	whole blood	Westra et al.	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	rs2932538	BAZ2B	whole blood	Joehanes et al.	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	rs2932538	CAPZA1	whole blood	Joehanes et al.	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	rs2932538	ST7L	whole blood	Joehanes et al.	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	ST7L	Muscle_Skeletal	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	ST7L	Thyroid	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	CAPZA1	Cells_Transformed_fibroblasts	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	CAPZA1	Lung	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	ST7L	Cells_Transformed_fibroblasts	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	CAPZA1	Nerve_Tibial	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	ST7L	Testis	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	ST7L	Artery_Tibial	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	WNT2B	Brain_Cerebellum	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	CAPZA1	Brain_Cerebellum	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	ST7L	Adipose_Subcutaneous	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	ST7L	Lung	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	ST7L	Nerve_Tibial	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	ST7L	Artery_Aorta	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	WNT2B	Lung	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	ST7L	Heart_Left_Ventricle	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	ST7L	Whole_Blood	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	RP4-671G15.2	Brain_Cortex	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	ST7L	Esophagus_Muscularis	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	RP4-671G15.2	Brain_Cerebellum	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+1	113216543.0	rs2932538	.	RP4-671G15.2	Nerve_Tibial	GTEx_v6	cis	1	112673921	CAPZA1 - MOV10	intron_variant	3e-07	Hypertension	21909115
+2	169041386.0	rs6749447	rs6749447	STK39	whole blood	Westra et al.	cis	2	168184876	STK39	intron_variant	2e-07	Blood pressure	19114657
+2	169041386.0	rs6749447	rs6749447	STK39	whole blood	Jansen et al.	cis	2	168184876	STK39	intron_variant	2e-07	Blood pressure	19114657
+2	169041386.0	rs6749447	rs6749447	STK39	whole blood	Joehanes et al.	cis	2	168184876	STK39	intron_variant	2e-07	Blood pressure	19114657
+6	26091179.0	rs1799945	rs1799945	TRIM38	whole blood	Westra et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
 6	26091179.0	rs1799945	rs1799945	ALAS2	whole blood	Westra et al.	trans	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H4B	whole blood	Jansen et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	BTN3A2	whole blood	Jansen et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H2BD	whole blood	Jansen et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HFE	whole blood	Jansen et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H4H	whole blood	Jansen et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H2AC	whole blood	Jansen et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H3I	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H4F	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H4E	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H4D	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H4C	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H4B	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H4A	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H3J	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H3H	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST2H4B	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H3F	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H3E	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H3D	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H3C	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H3B	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H3A	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST4H4	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H4H	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H3G	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H4I	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
 6	26091179.0	rs1799945	rs1799945	ALAS2	whole blood	Joehanes et al.	trans	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H4K	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST2H4A	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H4L	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H4J	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H2BI	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H2BG	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H2BF	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H2BE	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	HIST1H2BC	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	BTN3A2	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
 6	26091179.0	rs1799945	rs1799945	FBXO9	whole blood	Joehanes et al.	trans	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	BTN3A1	whole blood	Joehanes et al.	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	.	SLC17A3	Adrenal_Gland	GTEx_v6	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	.	U91328.19	Esophagus_Mucosa	GTEx_v6	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	.	HFE	Thyroid	GTEx_v6	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	.	HFE	Artery_Aorta	GTEx_v6	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	.	ZNF322	Esophagus_Muscularis	GTEx_v6	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	.	U91328.19	Adipose_Subcutaneous	GTEx_v6	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	.	HFE	Colon_Transverse	GTEx_v6	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	.	HFE	Nerve_Tibial	GTEx_v6	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	.	HIST1H2AC	Esophagus_Mucosa	GTEx_v6	cis	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	31332739.0	rs9266359	rs9266359	LTA	whole blood	Westra et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	LTA	whole blood	Westra et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	rs116069143	DDX39B	whole blood	Jansen et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs116069143	DDX39B	whole blood	Jansen et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	rs116069143	HLA-B	whole blood	Jansen et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs116069143	HLA-B	whole blood	Jansen et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	rs116069143	HLA-C	whole blood	Jansen et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs116069143	HLA-C	whole blood	Jansen et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	rs116069143	HLA-E	whole blood	Jansen et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs116069143	HLA-E	whole blood	Jansen et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	rs116069143	IER3	whole blood	Jansen et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs116069143	IER3	whole blood	Jansen et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	LST1	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	LST1	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	MICB	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	MICB	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	DOM3Z	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	DOM3Z	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	SNORD84	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	SNORD84	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	DDX39B	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	DDX39B	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	ATP6V1G2	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	ATP6V1G2	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	BTN3A2	whole blood	Joehanes et al.	trans	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	BTN3A2	whole blood	Joehanes et al.	trans	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	C4B	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	C4B	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	C4A	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	C4A	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	SLC44A4	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	SLC44A4	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	HCG27	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	HCG27	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	LOC100293534	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	LOC100293534	whole blood	Joehanes et al.	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Brain_Frontal_Cortex_BA9	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Brain_Frontal_Cortex_BA9	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Cells_Transformed_fibroblasts	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Cells_Transformed_fibroblasts	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Adipose_Visceral_Omentum	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Adipose_Visceral_Omentum	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Muscle_Skeletal	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Muscle_Skeletal	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-B	Artery_Aorta	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-B	Artery_Aorta	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-B	Brain_Cerebellum	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-B	Brain_Cerebellum	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Skin_Not_Sun_Exposed_Suprapubic	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Skin_Not_Sun_Exposed_Suprapubic	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	.	PPP1R18	Adipose_Subcutaneous	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	.	PPP1R18	Adipose_Subcutaneous	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	.	PSORS1C1	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	.	PSORS1C1	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-B	Adipose_Visceral_Omentum	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-B	Adipose_Visceral_Omentum	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	.	XXbac-BPG248L24.12	Whole_Blood	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	.	XXbac-BPG248L24.12	Whole_Blood	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-B	Cells_Transformed_fibroblasts	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-B	Cells_Transformed_fibroblasts	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	.	NOTCH4	Adipose_Subcutaneous	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	.	NOTCH4	Adipose_Subcutaneous	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Whole_Blood	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Whole_Blood	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Adipose_Subcutaneous	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Adipose_Subcutaneous	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Brain_Putamen_basal_ganglia	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	.	HLA-C	Brain_Putamen_basal_ganglia	GTEx_v6	cis	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31616366.0	rs805303	rs805303	AIF1	whole blood	Westra et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	LY6G5C	whole blood	Westra et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HSPA1B	whole blood	Westra et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HCP5	whole blood	Westra et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs116556354	AIF1	whole blood	Jansen et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs116556354	CSNK2B	whole blood	Jansen et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs116556354	.	whole blood	Jansen et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs116556354	HSPA1B	whole blood	Jansen et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs116556354	DDX39B	whole blood	Jansen et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs116556354	LY6G5B	whole blood	Jansen et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs116556354	PRRC2A	whole blood	Jansen et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs116556354	C6orf48	whole blood	Jansen et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs116556354	FLOT1	whole blood	Jansen et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs116556354	MSH5	whole blood	Jansen et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs116556354	HLA-B	whole blood	Jansen et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs116556354	HLA-C	whole blood	Jansen et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs116556354	IER3	whole blood	Jansen et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HSPA1L	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4D	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4C	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4B	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4A	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	DOM3Z	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	LOC100293534	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4E	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	C4B	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	C4A	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	GPANK1	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	CSNK2B	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	BTN3A2	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	SLC44A4	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	LY6G5B	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	SKIV2L	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HCP5	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HLA-DRB6	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	LOC100294307	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	IER3	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	LOC100507714	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	LOC100507709	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HLA-DRB6	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HLA-DRB1	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4F	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	BTN3A1	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4H	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4I	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4J	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	AGER	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	BAG6	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	SAPCD1	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	MSH5-SAPCD1	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	MSH5	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	LY6G5C	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HCG27	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	DDAH2	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	C6orf48	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	AIF1	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HLA-DRB5	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST4H4	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST2H4B	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST2H4A	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4L	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4K	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	RNF5	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	TUBB	whole blood	Joehanes et al.	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	BAG6	Muscle_Skeletal	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	HLA-DRB5	Heart_Left_Ventricle	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Lung	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	HLA-DRB5	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	HSPA1B	Cells_Transformed_fibroblasts	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Brain_Cerebellar_Hemisphere	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Breast_Mammary_Tissue	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Artery_Aorta	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Thyroid	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Brain_Anterior_cingulate_cortex_BA24	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	BAG6	Artery_Coronary	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	HLA-DRB5	Muscle_Skeletal	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Nerve_Tibial	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	PRRC2A	Whole_Blood	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	HLA-DRB1	Thyroid	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Esophagus_Mucosa	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Esophagus_Muscularis	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	DDAH2	Esophagus_Mucosa	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	C4A	Thyroid	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	BAG6	Artery_Aorta	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Lung	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Muscle_Skeletal	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Testis	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	CYP21A2	Adipose_Subcutaneous	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Colon_Sigmoid	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	CCHCR1	Colon_Transverse	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Thyroid	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Esophagus_Muscularis	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	APOM	Muscle_Skeletal	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	ATP6V1G2	Nerve_Tibial	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	GPANK1	Muscle_Skeletal	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	DDAH2	Cells_Transformed_fibroblasts	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	ABHD16A	Cells_Transformed_fibroblasts	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Artery_Aorta	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	BAG6	Artery_Tibial	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Stomach	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G6C	Esophagus_Mucosa	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	ABHD16A	Artery_Aorta	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Adipose_Visceral_Omentum	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Heart_Left_Ventricle	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Skin_Not_Sun_Exposed_Suprapubic	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Spleen	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	C4A	Muscle_Skeletal	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	HLA-DRB5	Thyroid	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Brain_Caudate_basal_ganglia	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	HLA-DRB5	Esophagus_Mucosa	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Adipose_Subcutaneous	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Whole_Blood	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Esophagus_Mucosa	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	HLA-DRB1	Muscle_Skeletal	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Nerve_Tibial	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Brain_Putamen_basal_ganglia	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Brain_Cerebellum	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	ATF6B	Muscle_Skeletal	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	C4A	Whole_Blood	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	ATP6V1G2	Esophagus_Muscularis	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Pancreas	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	C4A	Cells_Transformed_fibroblasts	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	C4B	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Colon_Transverse	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Brain_Nucleus_accumbens_basal_ganglia	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	HLA-DRB5	Adipose_Subcutaneous	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Artery_Tibial	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	HLA-DRB5	Lung	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	HLA-DRB5	Whole_Blood	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Testis	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Adipose_Subcutaneous	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Whole_Blood	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	C4A	Stomach	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5B	Cells_Transformed_fibroblasts	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G6E	Esophagus_Mucosa	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	LY6G5C	Muscle_Skeletal	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	HLA-DRB5	Nerve_Tibial	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	HLA-DRB1	Esophagus_Mucosa	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	DDAH2	Lung	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	.	C4B	Whole_Blood	GTEx_v6	cis	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+7	27159136.0	rs6969780	rs6969780	HOXA9	whole blood	Westra et al.	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	rs6969780	HOXA9	whole blood	Westra et al.	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	rs6969780	HOXA9	whole blood	Westra et al.	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	rs6969780	MIR196B	whole blood	Joehanes et al.	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	rs6969780	MIR196B	whole blood	Joehanes et al.	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	rs6969780	MIR196B	whole blood	Joehanes et al.	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	rs6969780	SKAP2	whole blood	Joehanes et al.	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	rs6969780	SKAP2	whole blood	Joehanes et al.	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	rs6969780	SKAP2	whole blood	Joehanes et al.	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	rs6969780	HOXA2	whole blood	Joehanes et al.	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	rs6969780	HOXA2	whole blood	Joehanes et al.	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	rs6969780	HOXA2	whole blood	Joehanes et al.	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Thyroid	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Thyroid	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Thyroid	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Esophagus_Muscularis	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Esophagus_Muscularis	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Esophagus_Muscularis	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOXA5	Cells_Transformed_fibroblasts	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOXA5	Cells_Transformed_fibroblasts	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOXA5	Cells_Transformed_fibroblasts	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOXA2	Nerve_Tibial	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOXA2	Nerve_Tibial	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOXA2	Nerve_Tibial	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Lung	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Lung	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Lung	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOXA3	Cells_Transformed_fibroblasts	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOXA3	Cells_Transformed_fibroblasts	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOXA3	Cells_Transformed_fibroblasts	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOXA2	Adipose_Subcutaneous	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOXA2	Adipose_Subcutaneous	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOXA2	Adipose_Subcutaneous	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOXA2	Cells_Transformed_fibroblasts	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOXA2	Cells_Transformed_fibroblasts	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOXA2	Cells_Transformed_fibroblasts	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOXA2	Artery_Tibial	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOXA2	Artery_Tibial	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOXA2	Artery_Tibial	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Artery_Aorta	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Artery_Aorta	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Artery_Aorta	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Adipose_Visceral_Omentum	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Adipose_Visceral_Omentum	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Adipose_Visceral_Omentum	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Muscle_Skeletal	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Muscle_Skeletal	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Muscle_Skeletal	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Stomach	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Stomach	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Stomach	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Artery_Tibial	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Artery_Tibial	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Artery_Tibial	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Esophagus_Gastroesophageal_Junction	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Esophagus_Gastroesophageal_Junction	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Esophagus_Gastroesophageal_Junction	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Adipose_Subcutaneous	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Adipose_Subcutaneous	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Adipose_Subcutaneous	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Cells_Transformed_fibroblasts	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Cells_Transformed_fibroblasts	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Cells_Transformed_fibroblasts	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOXA6	Cells_Transformed_fibroblasts	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOXA6	Cells_Transformed_fibroblasts	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOXA6	Cells_Transformed_fibroblasts	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Esophagus_Mucosa	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Esophagus_Mucosa	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Esophagus_Mucosa	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Skin_Not_Sun_Exposed_Suprapubic	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-06	Hypertension	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Skin_Not_Sun_Exposed_Suprapubic	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	2e-07	Blood pressure traits (multi-trait analysis)	28498854
+7	27159136.0	rs6969780	.	HOTAIRM1	Skin_Not_Sun_Exposed_Suprapubic	GTEx_v6	cis	7	27119517	HOXA3	splice_region_variant	1e-08	Blood pressure traits (multi-trait analysis)	28498854
+7	46008110.0	rs11977526	rs11977526	IGFBP3	whole blood	Westra et al.	cis	7	45968511	LOC102723446	upstream_gene_variant	7e-16	Blood pressure traits (multi-trait analysis)	28498854
+7	46008110.0	rs11977526	rs11977526	IGFBP3	whole blood	Joehanes et al.	cis	7	45968511	LOC102723446	upstream_gene_variant	7e-16	Blood pressure traits (multi-trait analysis)	28498854
+8	10071620.0	rs11775334	rs11775334	MSRA	whole blood	Westra et al.	cis	8	10214110	MSRA	intron_variant	4e-06	Hypertension	19430479
+8	10071620.0	rs11775334	rs11775334	CTSB	whole blood	Joehanes et al.	trans	8	10214110	MSRA	intron_variant	4e-06	Hypertension	19430479
+8	10071620.0	rs11775334	rs11775334	ERI1	whole blood	Joehanes et al.	trans	8	10214110	MSRA	intron_variant	4e-06	Hypertension	19430479
+8	10071620.0	rs11775334	.	AF131215.9	Thyroid	GTEx_v6	cis	8	10214110	MSRA	intron_variant	4e-06	Hypertension	19430479
+8	10071620.0	rs11775334	.	AF131215.9	Lung	GTEx_v6	cis	8	10214110	MSRA	intron_variant	4e-06	Hypertension	19430479
+8	10071620.0	rs11775334	.	AF131215.9	Esophagus_Mucosa	GTEx_v6	cis	8	10214110	MSRA	intron_variant	4e-06	Hypertension	19430479
+8	10071620.0	rs11775334	.	AF131215.9	Nerve_Tibial	GTEx_v6	cis	8	10214110	MSRA	intron_variant	4e-06	Hypertension	19430479
+8	10071620.0	rs11775334	.	AF131215.9	Pancreas	GTEx_v6	cis	8	10214110	MSRA	intron_variant	4e-06	Hypertension	19430479
+10	104594507.0	rs1004467	rs1004467	C10orf32	whole blood	Westra et al.	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	rs1004467	SFXN2	whole blood	Westra et al.	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	rs1004467	ARL3	whole blood	Westra et al.	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	rs1004467	NT5C2	whole blood	Jansen et al.	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	rs1004467	CYP17A1-AS1	whole blood	Joehanes et al.	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	rs1004467	WBP1L	whole blood	Joehanes et al.	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	rs1004467	AS3MT	whole blood	Joehanes et al.	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	rs1004467	C10orf32-AS3MT	whole blood	Joehanes et al.	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	rs1004467	NT5C2	whole blood	Joehanes et al.	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	.	WBP1L	Thyroid	GTEx_v6	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	.	AS3MT	Pancreas	GTEx_v6	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	.	MARCKSL1P1	Adipose_Subcutaneous	GTEx_v6	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	.	MARCKSL1P1	Artery_Aorta	GTEx_v6	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	.	CYP17A1-AS1	Testis	GTEx_v6	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	.	TMEM180	Adipose_Visceral_Omentum	GTEx_v6	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	.	NT5C2	Testis	GTEx_v6	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	.	MARCKSL1P1	Esophagus_Mucosa	GTEx_v6	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	.	AS3MT	Thyroid	GTEx_v6	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104594507.0	rs1004467	.	AS3MT	Skin_Not_Sun_Exposed_Suprapubic	GTEx_v6	cis	10	102834750	CYP17A1	non_coding_transcript_exon_variant	1e-10	Systolic blood pressure	19430479
+10	104595849.0	rs3824755	rs3824755	SFXN2	whole blood	Westra et al.	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	rs3824755	C10orf32	whole blood	Westra et al.	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	rs3824755	ARL3	whole blood	Westra et al.	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	rs3824755	NT5C2	whole blood	Jansen et al.	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	rs3824755	CYP17A1-AS1	whole blood	Joehanes et al.	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	rs3824755	WBP1L	whole blood	Joehanes et al.	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	rs3824755	NT5C2	whole blood	Joehanes et al.	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	rs3824755	C10orf32-AS3MT	whole blood	Joehanes et al.	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	rs3824755	AS3MT	whole blood	Joehanes et al.	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	.	AS3MT	Skin_Not_Sun_Exposed_Suprapubic	GTEx_v6	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	.	MARCKSL1P1	Esophagus_Mucosa	GTEx_v6	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	.	AS3MT	Pancreas	GTEx_v6	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	.	MARCKSL1P1	Adrenal_Gland	GTEx_v6	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	.	MARCKSL1P1	Adipose_Subcutaneous	GTEx_v6	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	.	AS3MT	Thyroid	GTEx_v6	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	.	MARCKSL1P1	Artery_Aorta	GTEx_v6	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	.	NT5C2	Testis	GTEx_v6	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	.	CYP17A1-AS1	Testis	GTEx_v6	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	.	ARL3	Artery_Aorta	GTEx_v6	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	.	AS3MT	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	.	ARL3	Cells_Transformed_fibroblasts	GTEx_v6	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	.	WBP1L	Thyroid	GTEx_v6	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104595849.0	rs3824755	.	TMEM180	Adipose_Visceral_Omentum	GTEx_v6	cis	10	102836092	CYP17A1	intron_variant	1e-06	Blood pressure	24001895
+10	104616663.0	rs4409766	rs4409766	C10orf32	whole blood	Westra et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	rs4409766	C10orf32	whole blood	Westra et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	rs4409766	C10orf32	whole blood	Westra et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	rs4409766	ARL3	whole blood	Westra et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	rs4409766	ARL3	whole blood	Westra et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	rs4409766	ARL3	whole blood	Westra et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	rs4409766	SFXN2	whole blood	Westra et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	rs4409766	SFXN2	whole blood	Westra et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	rs4409766	SFXN2	whole blood	Westra et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	rs4409766	NT5C2	whole blood	Westra et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	rs4409766	NT5C2	whole blood	Westra et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	rs4409766	NT5C2	whole blood	Westra et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	rs4409766	NT5C2	whole blood	Jansen et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	rs4409766	NT5C2	whole blood	Jansen et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	rs4409766	NT5C2	whole blood	Jansen et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	rs4409766	C10orf32-AS3MT	whole blood	Joehanes et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	rs4409766	C10orf32-AS3MT	whole blood	Joehanes et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	rs4409766	C10orf32-AS3MT	whole blood	Joehanes et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	rs4409766	NT5C2	whole blood	Joehanes et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	rs4409766	NT5C2	whole blood	Joehanes et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	rs4409766	NT5C2	whole blood	Joehanes et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	rs4409766	AS3MT	whole blood	Joehanes et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	rs4409766	AS3MT	whole blood	Joehanes et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	rs4409766	AS3MT	whole blood	Joehanes et al.	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	.	MARCKSL1P1	Esophagus_Mucosa	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	.	MARCKSL1P1	Esophagus_Mucosa	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	.	MARCKSL1P1	Esophagus_Mucosa	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	.	MARCKSL1P1	Adipose_Subcutaneous	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	.	MARCKSL1P1	Adipose_Subcutaneous	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	.	MARCKSL1P1	Adipose_Subcutaneous	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	.	AS3MT	Pancreas	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	.	AS3MT	Pancreas	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	.	AS3MT	Pancreas	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	.	AS3MT	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	.	AS3MT	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	.	AS3MT	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	.	ARL3	Artery_Aorta	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	.	ARL3	Artery_Aorta	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	.	ARL3	Artery_Aorta	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	.	TMEM180	Adipose_Visceral_Omentum	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	.	TMEM180	Adipose_Visceral_Omentum	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	.	TMEM180	Adipose_Visceral_Omentum	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	.	CYP17A1-AS1	Testis	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	.	CYP17A1-AS1	Testis	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	.	CYP17A1-AS1	Testis	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	.	WBP1L	Thyroid	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	.	WBP1L	Thyroid	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	.	WBP1L	Thyroid	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	.	ARL3	Cells_Transformed_fibroblasts	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	.	ARL3	Cells_Transformed_fibroblasts	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	.	ARL3	Cells_Transformed_fibroblasts	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	.	MARCKSL1P1	Adrenal_Gland	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	.	MARCKSL1P1	Adrenal_Gland	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	.	MARCKSL1P1	Adrenal_Gland	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	.	AS3MT	Thyroid	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	.	AS3MT	Thyroid	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	.	AS3MT	Thyroid	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	.	MARCKSL1P1	Artery_Aorta	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	.	MARCKSL1P1	Artery_Aorta	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	.	MARCKSL1P1	Artery_Aorta	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	.	NT5C2	Testis	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	.	NT5C2	Testis	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	.	NT5C2	Testis	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104616663.0	rs4409766	.	AS3MT	Skin_Not_Sun_Exposed_Suprapubic	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	7e-13	Hypertension	25249183
+10	104616663.0	rs4409766	.	AS3MT	Skin_Not_Sun_Exposed_Suprapubic	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-17	Systolic blood pressure	25249183
+10	104616663.0	rs4409766	.	AS3MT	Skin_Not_Sun_Exposed_Suprapubic	GTEx_v6	cis	10	102856906	C10orf32, C10orf32-ASMT	intron_variant	6e-13	Diastolic blood pressure	25249183
+10	104939215.0	rs11191593	rs11191593	NT5C2	whole blood	Westra et al.	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	rs11191593	USMG5	whole blood	Westra et al.	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	rs11191593	hsa-mir-1307	whole blood	Westra et al.	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	rs11191593	NT5C2	whole blood	Jansen et al.	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	rs11191593	USMG5	whole blood	Jansen et al.	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	rs11191593	NT5C2	whole blood	Joehanes et al.	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	rs11191593	AS3MT	whole blood	Joehanes et al.	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	rs11191593	C10orf32-AS3MT	whole blood	Joehanes et al.	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	ARL3	Artery_Aorta	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	WBP1L	Thyroid	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	MARCKSL1P1	Esophagus_Muscularis	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	MARCKSL1P1	Lung	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	CALHM2	Cells_Transformed_fibroblasts	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	NT5C2	Esophagus_Muscularis	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	MARCKSL1P1	Adrenal_Gland	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	MARCKSL1P1	Thyroid	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	MARCKSL1P1	Colon_Transverse	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	MARCKSL1P1	Muscle_Skeletal	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	NT5C2	Whole_Blood	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	MARCKSL1P1	Esophagus_Mucosa	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	ARL3	Cells_Transformed_fibroblasts	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	NT5C2	Testis	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	MARCKSL1P1	Cells_Transformed_fibroblasts	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	MARCKSL1P1	Adipose_Subcutaneous	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	MARCKSL1P1	Nerve_Tibial	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	AS3MT	Pancreas	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+10	104939215.0	rs11191593	.	AS3MT	Thyroid	GTEx_v6	cis	10	103179458	NT5C2	intron_variant	1e-06	Blood pressure	24001895
+11	16902268.0	rs381815	rs381815	SNORD14	whole blood	Westra et al.	cis	11	16880721	PLEKHA7	intron_variant	2e-09	Systolic blood pressure	19430479
+11	16902268.0	rs381815	rs381815	RPS13P2	whole blood	Westra et al.	cis	11	16880721	PLEKHA7	intron_variant	2e-09	Systolic blood pressure	19430479
+11	16902268.0	rs381815	.	PLEKHA7	Thyroid	GTEx_v6	cis	11	16880721	PLEKHA7	intron_variant	2e-09	Systolic blood pressure	19430479
+11	16917219.0	rs11024074	rs11024074	SNORD14	whole blood	Westra et al.	cis	11	16895672	PLEKHA7	intron_variant	1e-06	Diastolic blood pressure	19430479
+11	16917219.0	rs11024074	rs11024074	RPS13P2	whole blood	Westra et al.	cis	11	16895672	PLEKHA7	intron_variant	1e-06	Diastolic blood pressure	19430479
+11	16917219.0	rs11024074	.	PLEKHA7	Thyroid	GTEx_v6	cis	11	16895672	PLEKHA7	intron_variant	1e-06	Diastolic blood pressure	19430479
+12	90008959.0	rs2681472	rs2681472	WDR51B	whole blood	Westra et al.	cis	12	89615182	ATP2B1	intron_variant	2e-11	Hypertension	19430479
+12	90008959.0	rs2681472	rs2681472	WDR51B	whole blood	Westra et al.	cis	12	89615182	ATP2B1	intron_variant	1e-09	Diastolic blood pressure	19430479
+12	90008959.0	rs2681472	rs2681472	ATP2B1	whole blood	Joehanes et al.	cis	12	89615182	ATP2B1	intron_variant	2e-11	Hypertension	19430479
+12	90008959.0	rs2681472	rs2681472	ATP2B1	whole blood	Joehanes et al.	cis	12	89615182	ATP2B1	intron_variant	1e-09	Diastolic blood pressure	19430479
+12	90008959.0	rs2681472	rs2681472	GALNT4	whole blood	Joehanes et al.	cis	12	89615182	ATP2B1	intron_variant	2e-11	Hypertension	19430479
+12	90008959.0	rs2681472	rs2681472	GALNT4	whole blood	Joehanes et al.	cis	12	89615182	ATP2B1	intron_variant	1e-09	Diastolic blood pressure	19430479
+12	90008959.0	rs2681472	rs2681472	POC1B-GALNT4	whole blood	Joehanes et al.	cis	12	89615182	ATP2B1	intron_variant	2e-11	Hypertension	19430479
+12	90008959.0	rs2681472	rs2681472	POC1B-GALNT4	whole blood	Joehanes et al.	cis	12	89615182	ATP2B1	intron_variant	1e-09	Diastolic blood pressure	19430479
+12	90008959.0	rs2681472	rs2681472	POC1B	whole blood	Joehanes et al.	cis	12	89615182	ATP2B1	intron_variant	2e-11	Hypertension	19430479
+12	90008959.0	rs2681472	rs2681472	POC1B	whole blood	Joehanes et al.	cis	12	89615182	ATP2B1	intron_variant	1e-09	Diastolic blood pressure	19430479
+12	90008959.0	rs2681472	.	RP11-981P6.1	Thyroid	GTEx_v6	cis	12	89615182	ATP2B1	intron_variant	2e-11	Hypertension	19430479
+12	90008959.0	rs2681472	.	RP11-981P6.1	Thyroid	GTEx_v6	cis	12	89615182	ATP2B1	intron_variant	1e-09	Diastolic blood pressure	19430479
+12	90008959.0	rs2681472	.	RP11-981P6.1	Spleen	GTEx_v6	cis	12	89615182	ATP2B1	intron_variant	2e-11	Hypertension	19430479
+12	90008959.0	rs2681472	.	RP11-981P6.1	Spleen	GTEx_v6	cis	12	89615182	ATP2B1	intron_variant	1e-09	Diastolic blood pressure	19430479
+12	90008959.0	rs2681472	.	ATP2B1	Artery_Tibial	GTEx_v6	cis	12	89615182	ATP2B1	intron_variant	2e-11	Hypertension	19430479
+12	90008959.0	rs2681472	.	ATP2B1	Artery_Tibial	GTEx_v6	cis	12	89615182	ATP2B1	intron_variant	1e-09	Diastolic blood pressure	19430479
+12	90013089.0	rs2681492	rs2681492	WDR51B	whole blood	Westra et al.	cis	12	89619312	ATP2B1	intron_variant	4e-11	Systolic blood pressure	19430479
+12	90013089.0	rs2681492	rs2681492	GALNT4	whole blood	Joehanes et al.	cis	12	89619312	ATP2B1	intron_variant	4e-11	Systolic blood pressure	19430479
+12	90013089.0	rs2681492	rs2681492	POC1B-GALNT4	whole blood	Joehanes et al.	cis	12	89619312	ATP2B1	intron_variant	4e-11	Systolic blood pressure	19430479
+12	90013089.0	rs2681492	rs2681492	POC1B	whole blood	Joehanes et al.	cis	12	89619312	ATP2B1	intron_variant	4e-11	Systolic blood pressure	19430479
+12	90013089.0	rs2681492	rs2681492	ATP2B1	whole blood	Joehanes et al.	cis	12	89619312	ATP2B1	intron_variant	4e-11	Systolic blood pressure	19430479
+12	90013089.0	rs2681492	.	POC1B	Nerve_Tibial	GTEx_v6	cis	12	89619312	ATP2B1	intron_variant	4e-11	Systolic blood pressure	19430479
+12	90013089.0	rs2681492	.	ATP2B1	Artery_Tibial	GTEx_v6	cis	12	89619312	ATP2B1	intron_variant	4e-11	Systolic blood pressure	19430479
+12	90013089.0	rs2681492	.	RP11-981P6.1	Thyroid	GTEx_v6	cis	12	89619312	ATP2B1	intron_variant	4e-11	Systolic blood pressure	19430479
+12	90060586.0	rs17249754	rs17249754	WDR51B	whole blood	Westra et al.	cis	12	89666809	ATP2B1	intron_variant	2e-08	Hypertension	25249183
+12	90060586.0	rs17249754	rs17249754	WDR51B	whole blood	Westra et al.	cis	12	89666809	ATP2B1	intron_variant	4e-12	Systolic blood pressure	25249183
+12	90060586.0	rs17249754	rs17249754	WDR51B	whole blood	Westra et al.	cis	12	89666809	ATP2B1	intron_variant	2e-10	Diastolic blood pressure	25249183
+12	90060586.0	rs17249754	rs17249754	WDR51B	whole blood	Westra et al.	cis	12	89666809	ATP2B1	intron_variant	7e-15	Blood pressure	24001895
+12	90060586.0	rs17249754	rs17249754	POC1B	whole blood	Joehanes et al.	cis	12	89666809	ATP2B1	intron_variant	2e-08	Hypertension	25249183
+12	90060586.0	rs17249754	rs17249754	POC1B	whole blood	Joehanes et al.	cis	12	89666809	ATP2B1	intron_variant	4e-12	Systolic blood pressure	25249183
+12	90060586.0	rs17249754	rs17249754	POC1B	whole blood	Joehanes et al.	cis	12	89666809	ATP2B1	intron_variant	2e-10	Diastolic blood pressure	25249183
+12	90060586.0	rs17249754	rs17249754	POC1B	whole blood	Joehanes et al.	cis	12	89666809	ATP2B1	intron_variant	7e-15	Blood pressure	24001895
+12	90060586.0	rs17249754	rs17249754	POC1B-GALNT4	whole blood	Joehanes et al.	cis	12	89666809	ATP2B1	intron_variant	2e-08	Hypertension	25249183
+12	90060586.0	rs17249754	rs17249754	POC1B-GALNT4	whole blood	Joehanes et al.	cis	12	89666809	ATP2B1	intron_variant	4e-12	Systolic blood pressure	25249183
+12	90060586.0	rs17249754	rs17249754	POC1B-GALNT4	whole blood	Joehanes et al.	cis	12	89666809	ATP2B1	intron_variant	2e-10	Diastolic blood pressure	25249183
+12	90060586.0	rs17249754	rs17249754	POC1B-GALNT4	whole blood	Joehanes et al.	cis	12	89666809	ATP2B1	intron_variant	7e-15	Blood pressure	24001895
+12	90060586.0	rs17249754	rs17249754	ATP2B1	whole blood	Joehanes et al.	cis	12	89666809	ATP2B1	intron_variant	2e-08	Hypertension	25249183
+12	90060586.0	rs17249754	rs17249754	ATP2B1	whole blood	Joehanes et al.	cis	12	89666809	ATP2B1	intron_variant	4e-12	Systolic blood pressure	25249183
+12	90060586.0	rs17249754	rs17249754	ATP2B1	whole blood	Joehanes et al.	cis	12	89666809	ATP2B1	intron_variant	2e-10	Diastolic blood pressure	25249183
+12	90060586.0	rs17249754	rs17249754	ATP2B1	whole blood	Joehanes et al.	cis	12	89666809	ATP2B1	intron_variant	7e-15	Blood pressure	24001895
+12	90060586.0	rs17249754	rs17249754	GALNT4	whole blood	Joehanes et al.	cis	12	89666809	ATP2B1	intron_variant	2e-08	Hypertension	25249183
+12	90060586.0	rs17249754	rs17249754	GALNT4	whole blood	Joehanes et al.	cis	12	89666809	ATP2B1	intron_variant	4e-12	Systolic blood pressure	25249183
+12	90060586.0	rs17249754	rs17249754	GALNT4	whole blood	Joehanes et al.	cis	12	89666809	ATP2B1	intron_variant	2e-10	Diastolic blood pressure	25249183
+12	90060586.0	rs17249754	rs17249754	GALNT4	whole blood	Joehanes et al.	cis	12	89666809	ATP2B1	intron_variant	7e-15	Blood pressure	24001895
+12	90060586.0	rs17249754	.	POC1B	Nerve_Tibial	GTEx_v6	cis	12	89666809	ATP2B1	intron_variant	2e-08	Hypertension	25249183
+12	90060586.0	rs17249754	.	POC1B	Nerve_Tibial	GTEx_v6	cis	12	89666809	ATP2B1	intron_variant	4e-12	Systolic blood pressure	25249183
+12	90060586.0	rs17249754	.	POC1B	Nerve_Tibial	GTEx_v6	cis	12	89666809	ATP2B1	intron_variant	2e-10	Diastolic blood pressure	25249183
+12	90060586.0	rs17249754	.	POC1B	Nerve_Tibial	GTEx_v6	cis	12	89666809	ATP2B1	intron_variant	7e-15	Blood pressure	24001895
+12	90060586.0	rs17249754	.	RP11-981P6.1	Thyroid	GTEx_v6	cis	12	89666809	ATP2B1	intron_variant	2e-08	Hypertension	25249183
+12	90060586.0	rs17249754	.	RP11-981P6.1	Thyroid	GTEx_v6	cis	12	89666809	ATP2B1	intron_variant	4e-12	Systolic blood pressure	25249183
+12	90060586.0	rs17249754	.	RP11-981P6.1	Thyroid	GTEx_v6	cis	12	89666809	ATP2B1	intron_variant	2e-10	Diastolic blood pressure	25249183
+12	90060586.0	rs17249754	.	RP11-981P6.1	Thyroid	GTEx_v6	cis	12	89666809	ATP2B1	intron_variant	7e-15	Blood pressure	24001895
+12	90060586.0	rs17249754	.	ATP2B1	Artery_Tibial	GTEx_v6	cis	12	89666809	ATP2B1	intron_variant	2e-08	Hypertension	25249183
+12	90060586.0	rs17249754	.	ATP2B1	Artery_Tibial	GTEx_v6	cis	12	89666809	ATP2B1	intron_variant	4e-12	Systolic blood pressure	25249183
+12	90060586.0	rs17249754	.	ATP2B1	Artery_Tibial	GTEx_v6	cis	12	89666809	ATP2B1	intron_variant	2e-10	Diastolic blood pressure	25249183
+12	90060586.0	rs17249754	.	ATP2B1	Artery_Tibial	GTEx_v6	cis	12	89666809	ATP2B1	intron_variant	7e-15	Blood pressure	24001895
+12	90074441.0	rs11105368	rs11105368	WDR51B	whole blood	Westra et al.	cis	12	89680664	ATP2B1	intron_variant	2e-07	Hypertension	28273873
+12	90074441.0	rs11105368	rs11105368	POC1B	whole blood	Joehanes et al.	cis	12	89680664	ATP2B1	intron_variant	2e-07	Hypertension	28273873
+12	90074441.0	rs11105368	rs11105368	GALNT4	whole blood	Joehanes et al.	cis	12	89680664	ATP2B1	intron_variant	2e-07	Hypertension	28273873
+12	90074441.0	rs11105368	rs11105368	POC1B-GALNT4	whole blood	Joehanes et al.	cis	12	89680664	ATP2B1	intron_variant	2e-07	Hypertension	28273873
+12	90074441.0	rs11105368	rs11105368	ATP2B1	whole blood	Joehanes et al.	cis	12	89680664	ATP2B1	intron_variant	2e-07	Hypertension	28273873
+12	90074441.0	rs11105368	.	POC1B	Nerve_Tibial	GTEx_v6	cis	12	89680664	ATP2B1	intron_variant	2e-07	Hypertension	28273873
+12	90074441.0	rs11105368	.	ATP2B1	Artery_Tibial	GTEx_v6	cis	12	89680664	ATP2B1	intron_variant	2e-07	Hypertension	28273873
+12	90074441.0	rs11105368	.	RP11-981P6.1	Thyroid	GTEx_v6	cis	12	89680664	ATP2B1	intron_variant	2e-07	Hypertension	28273873
 12	111884608.0	rs3184504	rs3184504	UPP1	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	UPP1	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	IDS	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
@@ -24,6 +661,8 @@ chrom	pos	rsid	rsid_reported	gene	tissue	source	cis_trans	CHR_ID	CHR_POS	MAPPED_
 12	111884608.0	rs3184504	rs3184504	GBP4	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	NALP12	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	NALP12	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	SH2B3	whole blood	Westra et al.	cis	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	SH2B3	whole blood	Westra et al.	cis	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	PPP1R15A	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	PPP1R15A	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	S100A10	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
@@ -32,6 +671,8 @@ chrom	pos	rsid	rsid_reported	gene	tissue	source	cis_trans	CHR_ID	CHR_POS	MAPPED_
 12	111884608.0	rs3184504	rs3184504	GBP5	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	GBP4	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	GBP4	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	ALDH2	whole blood	Joehanes et al.	cis	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	ALDH2	whole blood	Joehanes et al.	cis	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	GBP1	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	GBP1	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	GBP3	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
@@ -76,28 +717,214 @@ chrom	pos	rsid	rsid_reported	gene	tissue	source	cis_trans	CHR_ID	CHR_POS	MAPPED_
 12	111884608.0	rs3184504	rs3184504	ARHGEF40	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	ATP2B1	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	ATP2B1	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GPN3	whole blood	Joehanes et al.	cis	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GPN3	whole blood	Joehanes et al.	cis	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	FAM216A	whole blood	Joehanes et al.	cis	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	FAM216A	whole blood	Joehanes et al.	cis	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	SH2B3	whole blood	Joehanes et al.	cis	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	SH2B3	whole blood	Joehanes et al.	cis	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	HIST2H2BF	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	HIST2H2BF	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	OAS2	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
 12	111884608.0	rs3184504	rs3184504	OAS2	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
-6	31332739.0	rs9266359	rs9266359	BTN3A2	whole blood	Joehanes et al.	trans	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
-6	31332739.0	rs9266359	rs9266359	BTN3A2	whole blood	Joehanes et al.	trans	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
-6	31616366.0	rs805303	rs805303	HIST1H4D	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
-6	31616366.0	rs805303	rs805303	HIST1H4C	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
-6	31616366.0	rs805303	rs805303	HIST1H4B	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
-6	31616366.0	rs805303	rs805303	HIST1H4A	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
-6	31616366.0	rs805303	rs805303	HIST1H4E	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
-6	31616366.0	rs805303	rs805303	BTN3A2	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
-6	31616366.0	rs805303	rs805303	HLA-DRB6	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
-6	31616366.0	rs805303	rs805303	HIST1H4F	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
-6	31616366.0	rs805303	rs805303	BTN3A1	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
-6	31616366.0	rs805303	rs805303	HIST1H4H	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
-6	31616366.0	rs805303	rs805303	HIST1H4I	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
-6	31616366.0	rs805303	rs805303	HIST1H4J	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
-6	31616366.0	rs805303	rs805303	HIST4H4	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
-6	31616366.0	rs805303	rs805303	HIST2H4B	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
-6	31616366.0	rs805303	rs805303	HIST2H4A	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
-6	31616366.0	rs805303	rs805303	HIST1H4L	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
-6	31616366.0	rs805303	rs805303	HIST1H4K	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
-8	10071620.0	rs11775334	rs11775334	CTSB	whole blood	Joehanes et al.	trans	8	10214110	MSRA	intron_variant	4e-06	Hypertension	19430479
-8	10071620.0	rs11775334	rs11775334	ERI1	whole blood	Joehanes et al.	trans	8	10214110	MSRA	intron_variant	4e-06	Hypertension	19430479
+12	111884608.0	rs3184504	.	ALDH2	Esophagus_Mucosa	GTEx_v6	cis	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	.	ALDH2	Esophagus_Mucosa	GTEx_v6	cis	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	.	ALDH2	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	.	ALDH2	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	.	HECTD4	Artery_Tibial	GTEx_v6	cis	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	.	HECTD4	Artery_Tibial	GTEx_v6	cis	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	rs6495122	SCAMP2	whole blood	Westra et al.	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	rs6495122	CSK	whole blood	Westra et al.	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	rs6495122	MPI	whole blood	Westra et al.	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	rs6495122	ULK3	whole blood	Westra et al.	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	rs6495122	CSK	whole blood	Joehanes et al.	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	rs6495122	ULK3	whole blood	Joehanes et al.	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	rs6495122	SCAMP2	whole blood	Joehanes et al.	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	MPI	Nerve_Tibial	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	RPP25	Artery_Coronary	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	SCAMP2	Brain_Cerebellum	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	PPCDC	Cells_Transformed_fibroblasts	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	MPI	Lung	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	PPCDC	Nerve_Tibial	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	RPP25	Nerve_Tibial	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	RPP25	Cells_Transformed_fibroblasts	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	MPI	Brain_Anterior_cingulate_cortex_BA24	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	RPP25	Adipose_Subcutaneous	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	MPI	Artery_Tibial	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	ULK3	Whole_Blood	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	MPI	Whole_Blood	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	MPI	Brain_Nucleus_accumbens_basal_ganglia	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	RPP25	Thyroid	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	MPI	Brain_Putamen_basal_ganglia	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	SCAMP2	Testis	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	SCAMP5	Heart_Left_Ventricle	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	ULK3	Cells_Transformed_fibroblasts	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	CSK	Lung	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	RPP25	Artery_Tibial	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	SCAMP5	Artery_Tibial	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	MPI	Brain_Frontal_Cortex_BA9	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	RPP25	Artery_Aorta	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	MPI	Cells_Transformed_fibroblasts	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	SCAMP5	Cells_Transformed_fibroblasts	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	MPI	Esophagus_Mucosa	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	SCAMP2	Esophagus_Mucosa	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	RPP25	Stomach	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	PPCDC	Artery_Aorta	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	SCAMP2	Whole_Blood	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	MPI	Brain_Caudate_basal_ganglia	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	MPI	Stomach	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	RPP25	Lung	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	75125645.0	rs6495122	.	MPI	Thyroid	GTEx_v6	cis	15	74833304	CPLX3 - ULK3	downstream_gene_variant	2e-10	Diastolic blood pressure	19430479
+15	91437388.0	rs2521501	rs2521501	UNC45A	whole blood	Westra et al.	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	rs2521501	FES	whole blood	Westra et al.	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	rs2521501	MAN2A2	whole blood	Westra et al.	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	rs2521501	RCCD1	whole blood	Westra et al.	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	rs2521501	FURIN	whole blood	Westra et al.	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	rs2521501	FES	whole blood	Jansen et al.	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	.	FES	Thyroid	GTEx_v6	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	.	FES	Cells_Transformed_fibroblasts	GTEx_v6	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	.	FES	Lung	GTEx_v6	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	.	FES	Adipose_Subcutaneous	GTEx_v6	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	.	FES	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	.	MAN2A2	Artery_Aorta	GTEx_v6	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	.	FES	Adipose_Visceral_Omentum	GTEx_v6	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	.	FES	Breast_Mammary_Tissue	GTEx_v6	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	.	FURIN	Esophagus_Mucosa	GTEx_v6	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	.	FES	Pancreas	GTEx_v6	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	.	FES	Artery_Tibial	GTEx_v6	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	.	FES	Artery_Aorta	GTEx_v6	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+15	91437388.0	rs2521501	.	FES	Nerve_Tibial	GTEx_v6	cis	15	90894158	FES	intron_variant	7e-07	Hypertension	21909115
+16	85700360.0	rs12149202	rs12149202	GINS2	whole blood	Westra et al.	cis	16	85666754	GSE1	intron_variant	8e-06	Blood pressure traits (multi-trait analysis)	28498854
+16	85700360.0	rs12149202	rs12149202	KIAA0182	whole blood	Jansen et al.	cis	16	85666754	GSE1	intron_variant	8e-06	Blood pressure traits (multi-trait analysis)	28498854
+16	85700360.0	rs12149202	.	GINS2	Thyroid	GTEx_v6	cis	16	85666754	GSE1	intron_variant	8e-06	Blood pressure traits (multi-trait analysis)	28498854
+20	57751117.0	rs6015450	rs6015450	CTSZ	whole blood	Westra et al.	cis	20	59176062	ZNF831	intron_variant	4e-14	Hypertension	21909115
+20	57758720.0	rs16982520	rs16982520	CTSZ	whole blood	Westra et al.	cis	20	59183665	ZNF831	intron_variant	2e-07	Hypertension	19430479
+7	131192475.0	rs3800688	rs3800688	MKLN1	whole blood	Jansen et al.	cis	7	131507716	PODXL	intron_variant	4e-06	Hypertension	28273873
+10	59724403.0	rs7088591	rs7088591	IPMK	whole blood	Jansen et al.	cis	10	57964643	LOC105378314 - MRPS35P3	intergenic_variant	9e-07	Blood pressure	24001895
+10	59724403.0	rs7088591	rs7088591	IPMK	whole blood	Joehanes et al.	cis	10	57964643	LOC105378314 - MRPS35P3	intergenic_variant	9e-07	Blood pressure	24001895
+10	59724403.0	rs7088591	rs7088591	CISD1	whole blood	Joehanes et al.	cis	10	57964643	LOC105378314 - MRPS35P3	intergenic_variant	9e-07	Blood pressure	24001895
+2	23898317.0	rs4665630	rs4665630	UBXN2A	whole blood	Joehanes et al.	cis	2	23675447	KLHL29	intron_variant	1e-07	Hypertension	21347282
+2	23898317.0	rs4665630	rs4665630	ATAD2B	whole blood	Joehanes et al.	cis	2	23675447	KLHL29	intron_variant	1e-07	Hypertension	21347282
+3	41765955.0	rs7651190	rs7651190	ULK4	whole blood	Joehanes et al.	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Brain_Frontal_Cortex_BA9	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Adipose_Subcutaneous	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Heart_Left_Ventricle	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Brain_Hypothalamus	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Brain_Putamen_basal_ganglia	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	RPL36P20	Testis	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Brain_Cerebellum	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Cells_EBV-transformed_lymphocytes	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Esophagus_Gastroesophageal_Junction	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Nerve_Tibial	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Thyroid	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Brain_Anterior_cingulate_cortex_BA24	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Lung	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Whole_Blood	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Brain_Cortex	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Skin_Not_Sun_Exposed_Suprapubic	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Spleen	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Colon_Transverse	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Artery_Tibial	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Stomach	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Brain_Nucleus_accumbens_basal_ganglia	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Esophagus_Mucosa	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Pancreas	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Esophagus_Muscularis	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Breast_Mammary_Tissue	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Brain_Hippocampus	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Cells_Transformed_fibroblasts	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Brain_Caudate_basal_ganglia	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Muscle_Skeletal	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Adrenal_Gland	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Artery_Aorta	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Pituitary	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Artery_Coronary	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Colon_Sigmoid	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Adipose_Visceral_Omentum	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41765955.0	rs7651190	.	ULK4	Brain_Cerebellar_Hemisphere	GTEx_v6	cis	3	41724463	ULK4	intron_variant	1e-10	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	rs7372217	ULK4	whole blood	Joehanes et al.	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Thyroid	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Whole_Blood	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Pituitary	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Brain_Cerebellum	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Muscle_Skeletal	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Brain_Cerebellar_Hemisphere	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Adipose_Subcutaneous	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Esophagus_Muscularis	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Brain_Cortex	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Esophagus_Mucosa	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Nerve_Tibial	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Brain_Anterior_cingulate_cortex_BA24	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Spleen	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Pancreas	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Stomach	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Colon_Transverse	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Cells_EBV-transformed_lymphocytes	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Adipose_Visceral_Omentum	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Brain_Frontal_Cortex_BA9	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Adrenal_Gland	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Cells_Transformed_fibroblasts	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	RPL36P20	Testis	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Artery_Tibial	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Brain_Hypothalamus	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Skin_Not_Sun_Exposed_Suprapubic	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Brain_Putamen_basal_ganglia	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Artery_Coronary	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Brain_Caudate_basal_ganglia	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Brain_Nucleus_accumbens_basal_ganglia	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Colon_Sigmoid	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Esophagus_Gastroesophageal_Junction	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Heart_Left_Ventricle	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Lung	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Artery_Aorta	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Breast_Mammary_Tissue	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Brain_Hippocampus	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	41990122.0	rs7372217	.	ULK4	Skin_Sun_Exposed_Lower_leg	GTEx_v6	cis	3	41948630	ULK4	intron_variant	1e-11	Blood pressure traits (multi-trait analysis)	28498854
+3	53635595.0	rs9810888	rs9810888	CACNA1D	whole blood	Joehanes et al.	cis	3	53601568	CACNA1D	intron_variant	4e-06	Hypertension	25249183
+3	53635595.0	rs9810888	rs9810888	CACNA1D	whole blood	Joehanes et al.	cis	3	53601568	CACNA1D	intron_variant	5e-08	Systolic blood pressure	25249183
+3	53635595.0	rs9810888	rs9810888	CACNA1D	whole blood	Joehanes et al.	cis	3	53601568	CACNA1D	intron_variant	4e-12	Diastolic blood pressure	25249183
+7	100458093.0	rs7801190	rs7801190	SRRT	whole blood	Joehanes et al.	cis	7	100860471	SLC12A9	non_coding_transcript_exon_variant	3e-08	Hypertension	21347282
+8	56814421.0	rs1027989	rs1027989	TGS1	whole blood	Joehanes et al.	cis	8	55901862	LYN	intron_variant	7e-07	Blood pressure traits (multi-trait analysis)	28498854
+8	56814421.0	rs1027989	rs1027989	TGS1	whole blood	Joehanes et al.	cis	8	55901862	LYN	intron_variant	1e-06	Blood pressure traits (multi-trait analysis)	28498854
+10	69457644.0	rs77932157	rs77932157	SIRT1	whole blood	Joehanes et al.	cis	10	67697886	CTNNA3 - AKR1B10P1	upstream_gene_variant	3e-06	Blood pressure traits (multi-trait analysis)	28498854
+10	95895940.0	rs932764	rs932764	HELLS	whole blood	Joehanes et al.	cis	10	94136183	PLCE1	intron_variant	9e-09	Hypertension	21909115
+3	27548900.0	rs820430	.	NEK10	Cells_Transformed_fibroblasts	GTEx_v6	cis	3	27507409	UBA52P4 - LOC105377005	intergenic_variant	1e-06	Hypertension	25249183
+3	27548900.0	rs820430	.	NEK10	Cells_Transformed_fibroblasts	GTEx_v6	cis	3	27507409	UBA52P4 - LOC105377005	intergenic_variant	1e-12	Systolic blood pressure	25249183
+3	27548900.0	rs820430	.	NEK10	Cells_Transformed_fibroblasts	GTEx_v6	cis	3	27507409	UBA52P4 - LOC105377005	intergenic_variant	8e-06	Diastolic blood pressure	25249183
+3	27548900.0	rs820430	.	NEK10	Liver	GTEx_v6	cis	3	27507409	UBA52P4 - LOC105377005	intergenic_variant	1e-06	Hypertension	25249183
+3	27548900.0	rs820430	.	NEK10	Liver	GTEx_v6	cis	3	27507409	UBA52P4 - LOC105377005	intergenic_variant	1e-12	Systolic blood pressure	25249183
+3	27548900.0	rs820430	.	NEK10	Liver	GTEx_v6	cis	3	27507409	UBA52P4 - LOC105377005	intergenic_variant	8e-06	Diastolic blood pressure	25249183
+3	27548900.0	rs820430	.	SLC4A7	Cells_Transformed_fibroblasts	GTEx_v6	cis	3	27507409	UBA52P4 - LOC105377005	intergenic_variant	1e-06	Hypertension	25249183
+3	27548900.0	rs820430	.	SLC4A7	Cells_Transformed_fibroblasts	GTEx_v6	cis	3	27507409	UBA52P4 - LOC105377005	intergenic_variant	1e-12	Systolic blood pressure	25249183
+3	27548900.0	rs820430	.	SLC4A7	Cells_Transformed_fibroblasts	GTEx_v6	cis	3	27507409	UBA52P4 - LOC105377005	intergenic_variant	8e-06	Diastolic blood pressure	25249183
+3	27548900.0	rs820430	.	SLC4A7	Artery_Aorta	GTEx_v6	cis	3	27507409	UBA52P4 - LOC105377005	intergenic_variant	1e-06	Hypertension	25249183
+3	27548900.0	rs820430	.	SLC4A7	Artery_Aorta	GTEx_v6	cis	3	27507409	UBA52P4 - LOC105377005	intergenic_variant	1e-12	Systolic blood pressure	25249183
+3	27548900.0	rs820430	.	SLC4A7	Artery_Aorta	GTEx_v6	cis	3	27507409	UBA52P4 - LOC105377005	intergenic_variant	8e-06	Diastolic blood pressure	25249183
+3	41868721.0	rs147428270	.	ULK4	Cells_Transformed_fibroblasts	GTEx_v6	cis	3	41827229	ULK4	intron_variant	2e-06	Blood pressure traits (multi-trait analysis)	28498854
+4	156619204.0	rs13143871	.	RP11-588K22.2	Nerve_Tibial	GTEx_v6	cis	4	155698052	GUCY1A3	intron_variant	1e-06	Hypertension	25249183
+4	156619204.0	rs13143871	.	RP11-588K22.2	Nerve_Tibial	GTEx_v6	cis	4	155698052	GUCY1A3	intron_variant	5e-08	Systolic blood pressure	25249183
+4	156619204.0	rs13143871	.	RP11-588K22.2	Nerve_Tibial	GTEx_v6	cis	4	155698052	GUCY1A3	intron_variant	6e-07	Diastolic blood pressure	25249183
+4	156619204.0	rs13143871	.	RP11-588K22.2	Adipose_Subcutaneous	GTEx_v6	cis	4	155698052	GUCY1A3	intron_variant	1e-06	Hypertension	25249183
+4	156619204.0	rs13143871	.	RP11-588K22.2	Adipose_Subcutaneous	GTEx_v6	cis	4	155698052	GUCY1A3	intron_variant	5e-08	Systolic blood pressure	25249183
+4	156619204.0	rs13143871	.	RP11-588K22.2	Adipose_Subcutaneous	GTEx_v6	cis	4	155698052	GUCY1A3	intron_variant	6e-07	Diastolic blood pressure	25249183
+5	32815028.0	rs1173771	.	NPR3	Lung	GTEx_v6	cis	5	32814922	NPR3 - LOC340113	regulatory_region_variant	3e-10	Hypertension	21909115
+5	32815028.0	rs1173771	.	NPR3	Nerve_Tibial	GTEx_v6	cis	5	32814922	NPR3 - LOC340113	regulatory_region_variant	3e-10	Hypertension	21909115
+6	150992370.0	rs62434120	.	RP11-136K14.1	Lung	GTEx_v6	cis	6	150671234	PLEKHG1	intron_variant	5e-07	Blood pressure traits (multi-trait analysis)	28498854
+6	154414563.0	rs675026	.	OPRM1	Brain_Cerebellum	GTEx_v6	cis	6	154093428	OPRM1	synonymous_variant	5e-06	Hypertension	21347282
+8	135869976.0	rs12541063	.	KHDRBS3	Lung	GTEx_v6	cis	8	134857733	LOC101927845	intron_variant	3e-06	Blood pressure	24001895
+10	18419972.0	rs4373814	.	SLC39A12-AS1	Brain_Nucleus_accumbens_basal_ganglia	GTEx_v6	cis	10	18131043	SLC39A12 - CACNB2	intergenic_variant	9e-08	Hypertension	21909115
+10	18419972.0	rs4373814	.	SLC39A12-AS1	Brain_Caudate_basal_ganglia	GTEx_v6	cis	10	18131043	SLC39A12 - CACNB2	intergenic_variant	9e-08	Hypertension	21909115
+10	18708798.0	rs11014166	.	CACNB2	Thyroid	GTEx_v6	cis	10	18419869	CACNB2	intron_variant	6e-08	Hypertension	19430479
+10	18708798.0	rs11014166	.	CACNB2	Thyroid	GTEx_v6	cis	10	18419869	CACNB2	intron_variant	7e-07	Systolic blood pressure	19430479
+10	18708798.0	rs11014166	.	CACNB2	Thyroid	GTEx_v6	cis	10	18419869	CACNB2	intron_variant	1e-08	Diastolic blood pressure	19430479
+11	100593538.0	rs633185	.	ARHGAP42	Adipose_Subcutaneous	GTEx_v6	cis	11	100722807	ARHGAP42	intron_variant	5e-11	Hypertension	21909115
+11	100593538.0	rs633185	.	ARHGAP42	Heart_Left_Ventricle	GTEx_v6	cis	11	100722807	ARHGAP42	intron_variant	5e-11	Hypertension	21909115
+11	100593538.0	rs633185	.	ARHGAP42	Artery_Tibial	GTEx_v6	cis	11	100722807	ARHGAP42	intron_variant	5e-11	Hypertension	21909115
+11	100593538.0	rs633185	.	TMEM133	Artery_Aorta	GTEx_v6	cis	11	100722807	ARHGAP42	intron_variant	5e-11	Hypertension	21909115
+11	100593538.0	rs633185	.	TMEM133	Artery_Coronary	GTEx_v6	cis	11	100722807	ARHGAP42	intron_variant	5e-11	Hypertension	21909115
+11	100593538.0	rs633185	.	ARHGAP42	Artery_Aorta	GTEx_v6	cis	11	100722807	ARHGAP42	intron_variant	5e-11	Hypertension	21909115
+11	100593538.0	rs633185	.	TMEM133	Artery_Tibial	GTEx_v6	cis	11	100722807	ARHGAP42	intron_variant	5e-11	Hypertension	21909115
+11	100593538.0	rs633185	.	ARHGAP42	Artery_Coronary	GTEx_v6	cis	11	100722807	ARHGAP42	intron_variant	5e-11	Hypertension	21909115
+20	10965998.0	rs1887320	.	C20orf187	Testis	GTEx_v6	cis	20	10985350	C20orf187	intron_variant	1e-08	Systolic blood pressure	25249183
+20	10965998.0	rs1887320	.	C20orf187	Testis	GTEx_v6	cis	20	10985350	C20orf187	intron_variant	2e-08	Diastolic blood pressure	25249183
