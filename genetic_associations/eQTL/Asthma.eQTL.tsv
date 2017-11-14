@@ -1,0 +1,260 @@
+chrom	pos	rsid	rsid_reported	gene	tissue	source	cis_trans	CHR_ID	CHR_POS	MAPPED_GENE	CONTEXT	P-VALUE	DISEASE/TRAIT	PUBMEDID
+6	32076499.0	rs2269426	rs2269426	LIMS1	whole blood	Westra et al.	trans	6.0	32108722.0	TNXB	intron_variant	3e-06	Eosinophil counts	19198610
+6	32076499.0	rs2269426	rs2269426	XRCC6	whole blood	Westra et al.	trans	6.0	32108722.0	TNXB	intron_variant	3e-06	Eosinophil counts	19198610
+6	32076499.0	rs2269426	rs2269426	TMEM154	whole blood	Westra et al.	trans	6.0	32108722.0	TNXB	intron_variant	3e-06	Eosinophil counts	19198610
+6	32076499.0	rs2269426	rs2269426	BTN3A2	whole blood	Joehanes et al.	trans	6.0	32108722.0	TNXB	intron_variant	3e-06	Eosinophil counts	19198610
+6	32076499.0	rs2269426	rs2269426	TUBB	whole blood	Joehanes et al.	trans	6.0	32108722.0	TNXB	intron_variant	3e-06	Eosinophil counts	19198610
+6	32076499.0	rs2269426	rs2269426	BTN3A1	whole blood	Joehanes et al.	trans	6.0	32108722.0	TNXB	intron_variant	3e-06	Eosinophil counts	19198610
+6	32155581.0	rs204993	rs204993	AE000660.1-5	whole blood	Westra et al.	trans	6.0	32187804.0	PBX2	intron_variant	2e-15	Asthma	21804548
+6	32155581.0	rs204993	rs204993	U66060.1-23	whole blood	Westra et al.	trans	6.0	32187804.0	PBX2	intron_variant	2e-15	Asthma	21804548
+6	32155581.0	rs204993	rs204993	TUBB	whole blood	Joehanes et al.	trans	6.0	32187804.0	PBX2	intron_variant	2e-15	Asthma	21804548
+6	32155581.0	rs204993	rs204993	LINC00243	whole blood	Joehanes et al.	trans	6.0	32187804.0	PBX2	intron_variant	2e-15	Asthma	21804548
+6	32155581.0	rs204993	rs204993	TRIM26	whole blood	Joehanes et al.	trans	6.0	32187804.0	PBX2	intron_variant	2e-15	Asthma	21804548
+6	32155581.0	rs204993	rs204993	BTN3A2	whole blood	Joehanes et al.	trans	6.0	32187804.0	PBX2	intron_variant	2e-15	Asthma	21804548
+6	32155581.0	rs204993	rs204993	HLA-F-AS1	whole blood	Joehanes et al.	trans	6.0	32187804.0	PBX2	intron_variant	2e-15	Asthma	21804548
+6	32155581.0	rs204993	rs204993	TRIM10	whole blood	Joehanes et al.	trans	6.0	32187804.0	PBX2	intron_variant	2e-15	Asthma	21804548
+6	32155581.0	rs204993	rs204993	BTN3A1	whole blood	Joehanes et al.	trans	6.0	32187804.0	PBX2	intron_variant	2e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	U66060.1-23	whole blood	Westra et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	HIST1H4J	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	HIST1H4K	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	HIST1H4L	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	HIST2H4A	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	HIST2H4B	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	HIST4H4	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	ZNRD1-AS1	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	HIST1H4I	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	IER3	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	BTN3A1	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	BTN3A2	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	TUBB	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	TRIM10	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	LOC100294307	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	HIST1H4H	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	ZNRD1	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	HIST1H4E	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	HIST1H4F	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	LINC00243	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	HLA-F-AS1	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	HIST1H4A	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	HIST1H4B	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	HIST1H4C	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32338695.0	rs3129943	rs3129943	HIST1H4D	whole blood	Joehanes et al.	trans	6.0	32370918.0	LOC101929163, C6orf10	intron_variant	3e-15	Asthma	21804548
+6	32358513.0	rs3117098	rs3117098	LIMS1	whole blood	Westra et al.	trans	6.0	32390736.0	HCG23, LOC101929163	non_coding_transcript_exon_variant	5e-12	Asthma	21804548
+6	32358513.0	rs3117098	rs3117098	U66060.1-23	whole blood	Westra et al.	trans	6.0	32390736.0	HCG23, LOC101929163	non_coding_transcript_exon_variant	5e-12	Asthma	21804548
+6	32358513.0	rs3117098	rs3117098	LY96	whole blood	Westra et al.	trans	6.0	32390736.0	HCG23, LOC101929163	non_coding_transcript_exon_variant	5e-12	Asthma	21804548
+6	32358513.0	rs3117098	rs3117098	TUBB	whole blood	Joehanes et al.	trans	6.0	32390736.0	HCG23, LOC101929163	non_coding_transcript_exon_variant	5e-12	Asthma	21804548
+6	32358513.0	rs3117098	rs3117098	BTN3A2	whole blood	Joehanes et al.	trans	6.0	32390736.0	HCG23, LOC101929163	non_coding_transcript_exon_variant	5e-12	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	ERG	whole blood	Westra et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	LIMS1	whole blood	Westra et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	BTN3A2	whole blood	Westra et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	HIST1H4B	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	HIST1H4A	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	BTN3A1	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	LINC00243	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	LOC100294307	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	BTN3A2	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	HLA-F-AS1	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	HIST1H4C	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	IER3	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	HIST1H4D	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	HIST1H4F	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	HIST1H4E	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	ZNRD1-AS1	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	ZNRD1	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	TUBB	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	HIST1H4I	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	HIST1H4J	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	HIST1H4K	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	HIST1H4H	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	HIST2H4A	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	HIST2H4B	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	HIST4H4	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32414273.0	rs3129890	rs3129890	HIST1H4L	whole blood	Joehanes et al.	trans	6.0	32446496.0	HLA-DRA - HLA-DRB9	downstream_gene_variant	5e-13	Asthma	21804548
+6	32604372.0	rs9272346	rs9272346	U66061.1-11	whole blood	Westra et al.	trans	6.0	32636595.0	HLA-DRB1 - LOC107986589	intron_variant	2e-08	Asthma	23181788
+6	32604372.0	rs9272346	rs9272346	U66060.1-23	whole blood	Westra et al.	trans	6.0	32636595.0	HLA-DRB1 - LOC107986589	intron_variant	2e-08	Asthma	23181788
+6	32604372.0	rs9272346	rs9272346	AOAH	whole blood	Westra et al.	trans	6.0	32636595.0	HLA-DRB1 - LOC107986589	intron_variant	2e-08	Asthma	23181788
+6	32604372.0	rs9272346	rs9272346	LIMS1	whole blood	Westra et al.	trans	6.0	32636595.0	HLA-DRB1 - LOC107986589	intron_variant	2e-08	Asthma	23181788
+6	32604372.0	rs9272346	rs9272346	BTN3A2	whole blood	Joehanes et al.	trans	6.0	32636595.0	HLA-DRB1 - LOC107986589	intron_variant	2e-08	Asthma	23181788
+6	32604372.0	rs9272346	rs9272346	MNAT1	whole blood	Joehanes et al.	trans	6.0	32636595.0	HLA-DRB1 - LOC107986589	intron_variant	2e-08	Asthma	23181788
+6	32604372.0	rs9272346	rs9272346	SIX4	whole blood	Joehanes et al.	trans	6.0	32636595.0	HLA-DRB1 - LOC107986589	intron_variant	2e-08	Asthma	23181788
+6	32604372.0	rs9272346	rs9272346	PRRC2A	whole blood	Joehanes et al.	trans	6.0	32636595.0	HLA-DRB1 - LOC107986589	intron_variant	2e-08	Asthma	23181788
+6	32604372.0	rs9272346	rs9272346	BTN3A1	whole blood	Joehanes et al.	trans	6.0	32636595.0	HLA-DRB1 - LOC107986589	intron_variant	2e-08	Asthma	23181788
+6	32658079.0	rs7775228	rs7775228	AE000660.1-5	whole blood	Westra et al.	trans	6.0	32690302.0	HLA-DQB1 - MTCO3P1	intergenic_variant	5e-15	Asthma	21804548
+6	32658079.0	rs7775228	rs7775228	LIMS1	whole blood	Westra et al.	trans	6.0	32690302.0	HLA-DQB1 - MTCO3P1	intergenic_variant	5e-15	Asthma	21804548
+6	32658079.0	rs7775228	rs7775228	U66060.1-23	whole blood	Westra et al.	trans	6.0	32690302.0	HLA-DQB1 - MTCO3P1	intergenic_variant	5e-15	Asthma	21804548
+6	32658079.0	rs7775228	rs7775228	HCP5	whole blood	Joehanes et al.	trans	6.0	32690302.0	HLA-DQB1 - MTCO3P1	intergenic_variant	5e-15	Asthma	21804548
+6	32658079.0	rs7775228	rs7775228	BAG6	whole blood	Joehanes et al.	trans	6.0	32690302.0	HLA-DQB1 - MTCO3P1	intergenic_variant	5e-15	Asthma	21804548
+6	32658079.0	rs7775228	rs7775228	CSNK2B	whole blood	Joehanes et al.	trans	6.0	32690302.0	HLA-DQB1 - MTCO3P1	intergenic_variant	5e-15	Asthma	21804548
+6	32658079.0	rs7775228	rs7775228	LINC00243	whole blood	Joehanes et al.	trans	6.0	32690302.0	HLA-DQB1 - MTCO3P1	intergenic_variant	5e-15	Asthma	21804548
+12	56364321.0	rs2069408	rs2069408	RP4-697K14.11	whole blood	Westra et al.	trans	12.0	55970537.0	CDK2	intron_variant	1e-10	Asthma	21804548
+12	56364321.0	rs2069408	rs2069408	AC136632.3-2	whole blood	Westra et al.	trans	12.0	55970537.0	CDK2	intron_variant	1e-10	Asthma	21804548
+12	56364321.0	rs2069408	rs2069408	RAB8B	whole blood	Westra et al.	trans	12.0	55970537.0	CDK2	intron_variant	1e-10	Asthma	21804548
+12	56412487.0	rs1701704	rs1701704	AC136632.3-2	whole blood	Westra et al.	trans	12.0	56018703.0	IKZF4, LOC105369781	intron_variant	2e-13	Asthma	21804548
+12	56412487.0	rs1701704	rs1701704	CDC42	whole blood	Westra et al.	trans	12.0	56018703.0	IKZF4, LOC105369781	intron_variant	2e-13	Asthma	21804548
+12	56412487.0	rs1701704	rs1701704	CEPT1	whole blood	Westra et al.	trans	12.0	56018703.0	IKZF4, LOC105369781	intron_variant	2e-13	Asthma	21804548
+12	56412487.0	rs1701704	rs1701704	CCL5	whole blood	Westra et al.	trans	12.0	56018703.0	IKZF4, LOC105369781	intron_variant	2e-13	Asthma	21804548
+12	56412487.0	rs1701704	rs1701704	MIF	whole blood	Westra et al.	trans	12.0	56018703.0	IKZF4, LOC105369781	intron_variant	2e-13	Asthma	21804548
+12	56412487.0	rs1701704	rs1701704	AP000350.4	whole blood	Westra et al.	trans	12.0	56018703.0	IKZF4, LOC105369781	intron_variant	2e-13	Asthma	21804548
+12	56412487.0	rs1701704	rs1701704	RP4-697K14.11	whole blood	Westra et al.	trans	12.0	56018703.0	IKZF4, LOC105369781	intron_variant	2e-13	Asthma	21804548
+12	56412487.0	rs1701704	rs1701704	DPF2	whole blood	Westra et al.	trans	12.0	56018703.0	IKZF4, LOC105369781	intron_variant	2e-13	Asthma	21804548
+12	56412487.0	rs1701704	rs1701704	CRLF3	whole blood	Westra et al.	trans	12.0	56018703.0	IKZF4, LOC105369781	intron_variant	2e-13	Asthma	21804548
+12	56412487.0	rs1701704	rs1701704	MED26	whole blood	Joehanes et al.	trans	12.0	56018703.0	IKZF4, LOC105369781	intron_variant	2e-13	Asthma	21804548
+12	111884608.0	rs3184504	rs3184504	UPP1	whole blood	Westra et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	IDS	whole blood	Westra et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	FOS	whole blood	Westra et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	IL8	whole blood	Westra et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	TAGAP	whole blood	Westra et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	GBP2	whole blood	Westra et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	UBE2L6	whole blood	Westra et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	STAT1	whole blood	Westra et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	GBP1	whole blood	Westra et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	GBP4	whole blood	Westra et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	NALP12	whole blood	Westra et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	PPP1R15A	whole blood	Westra et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	S100A10	whole blood	Westra et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	GBP5	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	GBP4	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	GBP1	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	GBP3	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	PSTPIP2	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	UTP18	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	USP4	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	GBP2	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	GBP7	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	STAT1	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	FCGR1C	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	FCGR1B	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	FCGR1A	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	CRIP1	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	GLS	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	OBFC1	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	MYADM	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	MX2	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	LOC100131190	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	TAGAP	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	RICTOR	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	ZNF219	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	ARHGEF40	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	ATP2B1	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	HIST2H2BF	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+12	111884608.0	rs3184504	rs3184504	OAS2	whole blood	Joehanes et al.	trans	12.0	111446804.0	SH2B3	missense_variant	7e-19	Eosinophil counts	19198610
+1	168720621.0	rs7534485	rs7534485	ETV6	whole blood	Joehanes et al.	trans	1.0	168751383.0	DPT - LINC00626	regulatory_region_variant	8e-06	Diisocyanate-induced asthma	25918132
+2	135632981.0	rs4954192	rs4954192	DARS	whole blood	Joehanes et al.	trans	2.0	134875411.0	ACMSD, CCNT2-AS1	intron_variant	6e-07	Diisocyanate-induced asthma	25918132
+5	59369794.0	rs1588265	rs1588265	PDE4D	whole blood	Joehanes et al.	trans	5.0	60073967.0	PDE4D	intron_variant	3e-08	Asthma	19426955
+6	31088145.0	rs3095318	rs3095318	ZNRD1-AS1	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	ZNRD1-AS1	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HLA-DRB1	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HLA-DRB1	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	ZNRD1	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	ZNRD1	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HLA-DRB6	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HLA-DRB6	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	LOC100507709	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	LOC100507709	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	LOC100507714	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	LOC100507714	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	BTN3A1	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	BTN3A1	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	BTN3A2	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	BTN3A2	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	LOC100507718	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	LOC100507718	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HLA-DQA1	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HLA-DQA1	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HLA-DQA2	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HLA-DQA2	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	LOC100509457	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	LOC100509457	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	LOC554223	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	LOC554223	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HLA-P	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HLA-P	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HLA-DRB5	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HLA-DRB5	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	BTN2A1	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	BTN2A1	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	BTN2A2	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	BTN2A2	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HCG4	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HCG4	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HLA-F-AS1	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HLA-F-AS1	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4A	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4A	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4B	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4B	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4C	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4C	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4E	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4E	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4D	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4D	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST4H4	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST4H4	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST2H4B	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST2H4B	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST2H4A	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST2H4A	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4K	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4K	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4J	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4J	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4I	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4I	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4H	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4H	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4F	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4F	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4L	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	2e-11	Adult asthma	27611488
+6	31088145.0	rs3095318	rs3095318	HIST1H4L	whole blood	Joehanes et al.	trans	6.0	31120368.0	PSORS1C1, CDSN	missense_variant	7e-08	Adult asthma	27611488
+6	32379489.0	rs9268516	rs9268516	HIST1H4K	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST1H2BF	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST1H2BE	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST1H2BC	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	LINC00243	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST1H2BI	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST1H4A	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST1H2BG	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST1H4C	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST1H4B	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST4H4	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST2H4A	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST1H4L	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST1H4J	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST1H4I	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST1H4H	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST1H4F	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST1H4E	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST1H4D	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32379489.0	rs9268516	rs9268516	HIST2H4B	whole blood	Joehanes et al.	trans	6.0	32411712.0	BTNL2 - HLA-DRA	upstream_gene_variant	1e-08	Asthma	23028483
+6	32603487.0	rs3104367	rs3104367	BTN3A2	whole blood	Joehanes et al.	trans	6.0	32635710.0	HLA-DRB1 - LOC107986589	intron_variant	1e-40	Asthma	27182965
+6	32603487.0	rs3104367	rs3104367	BTN3A1	whole blood	Joehanes et al.	trans	6.0	32635710.0	HLA-DRB1 - LOC107986589	intron_variant	1e-40	Asthma	27182965
+6	32603487.0	rs3104367	rs3104367	SIX4	whole blood	Joehanes et al.	trans	6.0	32635710.0	HLA-DRB1 - LOC107986589	intron_variant	1e-40	Asthma	27182965
+6	32603487.0	rs3104367	rs3104367	MNAT1	whole blood	Joehanes et al.	trans	6.0	32635710.0	HLA-DRB1 - LOC107986589	intron_variant	1e-40	Asthma	27182965
+6	32603487.0	rs3104367	rs3104367	PRRC2A	whole blood	Joehanes et al.	trans	6.0	32635710.0	HLA-DRB1 - LOC107986589	intron_variant	1e-40	Asthma	27182965
+6	32687973.0	rs9275698	rs9275698	BTN3A2	whole blood	Joehanes et al.	trans	6.0	32720196.0	LOC102725019 - HLA-DQA2	downstream_gene_variant	5e-12	Asthma	21804548
+6	32687973.0	rs9275698	rs9275698	TRIM26	whole blood	Joehanes et al.	trans	6.0	32720196.0	LOC102725019 - HLA-DQA2	downstream_gene_variant	5e-12	Asthma	21804548
+6	32687973.0	rs9275698	rs9275698	BTN3A1	whole blood	Joehanes et al.	trans	6.0	32720196.0	LOC102725019 - HLA-DQA2	downstream_gene_variant	5e-12	Asthma	21804548
+6	32687973.0	rs9275698	rs9275698	TUBB	whole blood	Joehanes et al.	trans	6.0	32720196.0	LOC102725019 - HLA-DQA2	downstream_gene_variant	5e-12	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	LOC100294307	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	HIST1H4A	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	HIST1H4B	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	HIST1H4C	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	HIST1H4D	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	HIST1H4J	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	HIST1H4H	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	HIST1H4I	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	HIST1H4K	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	IER3	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	HIST1H4F	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	SLC44A4	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	HIST1H4E	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	LINC00243	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	HIST1H4L	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	TRIM26	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	HIST2H4A	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	HIST2H4B	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	HIST4H4	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	TUBB	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	BTN3A2	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548
+6	32961361.0	rs9500927	rs9500927	BTN3A1	whole blood	Joehanes et al.	trans	6.0	32993584.0	BRD2 - HLA-DOA	intergenic_variant	4e-09	Asthma	21804548

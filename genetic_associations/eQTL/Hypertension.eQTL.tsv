@@ -1,0 +1,103 @@
+chrom	pos	rsid	rsid_reported	gene	tissue	source	cis_trans	CHR_ID	CHR_POS	MAPPED_GENE	CONTEXT	P-VALUE	DISEASE/TRAIT	PUBMEDID
+6	26091179.0	rs1799945	rs1799945	ALAS2	whole blood	Westra et al.	trans	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	ALAS2	whole blood	Joehanes et al.	trans	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+6	26091179.0	rs1799945	rs1799945	FBXO9	whole blood	Joehanes et al.	trans	6	26090951	HFE	missense_variant	2e-10	Hypertension	21909115
+12	111884608.0	rs3184504	rs3184504	UPP1	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	UPP1	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	IDS	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	IDS	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	FOS	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	FOS	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	IL8	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	IL8	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	TAGAP	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	TAGAP	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP2	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP2	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	UBE2L6	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	UBE2L6	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	STAT1	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	STAT1	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP1	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP1	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP4	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP4	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	NALP12	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	NALP12	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	PPP1R15A	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	PPP1R15A	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	S100A10	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	S100A10	whole blood	Westra et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP5	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP5	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP4	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP4	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP1	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP1	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP3	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP3	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	PSTPIP2	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	PSTPIP2	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	UTP18	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	UTP18	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	USP4	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	USP4	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP2	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP2	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP7	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GBP7	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	STAT1	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	STAT1	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	FCGR1C	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	FCGR1C	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	FCGR1B	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	FCGR1B	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	FCGR1A	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	FCGR1A	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	CRIP1	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	CRIP1	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GLS	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	GLS	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	OBFC1	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	OBFC1	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	MYADM	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	MYADM	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	MX2	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	MX2	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	LOC100131190	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	LOC100131190	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	TAGAP	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	TAGAP	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	RICTOR	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	RICTOR	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	ZNF219	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	ZNF219	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	ARHGEF40	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	ARHGEF40	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	ATP2B1	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	ATP2B1	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	HIST2H2BF	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	HIST2H2BF	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	OAS2	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	5e-09	Systolic blood pressure	19430479
+12	111884608.0	rs3184504	rs3184504	OAS2	whole blood	Joehanes et al.	trans	12	111446804	SH2B3	missense_variant	3e-14	Diastolic blood pressure	19430479
+6	31332739.0	rs9266359	rs9266359	BTN3A2	whole blood	Joehanes et al.	trans	6	31364962	DHFRP2	downstream_gene_variant	7e-06	Systolic blood pressure	25249183
+6	31332739.0	rs9266359	rs9266359	BTN3A2	whole blood	Joehanes et al.	trans	6	31364962	DHFRP2	downstream_gene_variant	2e-07	Diastolic blood pressure	25249183
+6	31616366.0	rs805303	rs805303	HIST1H4D	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4C	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4B	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4A	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4E	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	BTN3A2	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HLA-DRB6	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4F	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	BTN3A1	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4H	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4I	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4J	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST4H4	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST2H4B	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST2H4A	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4L	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+6	31616366.0	rs805303	rs805303	HIST1H4K	whole blood	Joehanes et al.	trans	6	31648589	BAG6	intron_variant	1e-10	Hypertension	21909115
+8	10071620.0	rs11775334	rs11775334	CTSB	whole blood	Joehanes et al.	trans	8	10214110	MSRA	intron_variant	4e-06	Hypertension	19430479
+8	10071620.0	rs11775334	rs11775334	ERI1	whole blood	Joehanes et al.	trans	8	10214110	MSRA	intron_variant	4e-06	Hypertension	19430479
