@@ -1,0 +1,20 @@
+trait	annotation	n_publications
+Asthma	asthma	18
+Hypertension	hypertension	13
+Asthma (childhood onset)	asthma	6
+Blood pressure	hypertension	2
+Diastolic blood pressure	hypertension	2
+Systolic blood pressure	hypertension	2
+Adult asthma	asthma	1
+Aspirin exacerbated respiratory disease in asthmatics	asthma	1
+Asthma and hay fever	asthma	1
+Asthma (gender interaction)	asthma	1
+Asthma (toluene diisocyanate-induced)	asthma	1
+Blood pressure traits (multi-trait analysis)	hypertension	1
+Bronchial hyperresponsiveness in asthma	asthma	1
+Diisocyanate-induced asthma	asthma	1
+Eosinophil counts	asthma	1
+Hypertension (young onset)	hypertension	1
+IgE levels in asthmatics	asthma	1
+IgE levels in asthmatics (D.f. specific)	asthma	1
+IgE levels in asthmatics (D.p. specific)	asthma	1
