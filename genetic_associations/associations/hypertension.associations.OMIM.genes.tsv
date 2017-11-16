@@ -1,0 +1,17 @@
+Location	Phenotype	"Phenotype 
+MIM number"	Inheritance	"Phenotype 
+mapping key"	Gene/Locus	"Gene/Locus 
+MIM number"
+2q22.1  	{Asthma, susceptibility to} 	600807	AD 	3	HNMT 	605238
+4q13.3  	{Asthma, protection against} 	600807	AD 	3	MUC7 	158375
+5q31.1  	{Asthma, susceptibility to} 	600807	AD 	3	IL13 	147683
+5q32  	{Asthma, susceptibility to} 	600807	AD 	3	SCGB3A2 	606531
+5q32  	{Asthma, nocturnal, susceptibility to} 	600807	AD 	3	ADRB2 	109690
+6p22.1  	{Asthma, susceptibility to} 	600807	AD 	2	HLA-G 	142871
+6p21.33  	{Asthma, susceptibility to} 	600807	AD 	3	TNF 	191160
+6p12.3  	{Asthma, susceptibility to} 	600807	AD 	3	PLA2G7 	601690
+10q11.21  	{Asthma, diminished response to antileukotriene treatment in} 	600807	AD 	3	ALOX5 	152390
+17q12  	{Asthma, susceptibility to} 	600807	AD 	3	CCL11 	601156
+14q22.1  	{Asthma, aspirin-induced, susceptibility to} 	208550	AR 	3	PTGER2 	176804
+17q21.32  	{Asthma, aspirin-induced, susceptibility to} 	208550	AR 	3	TBX21 	604895
+17q21.32  	Asthma and nasal polyps 	208550	AR 	3	TBX21 	604895
