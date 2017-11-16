@@ -1,0 +1,56 @@
+drug_name	drugbank_id	group
+Omalizumab	DB00043	Anti-IgE mab
+Flunisolide	DB00180	Inhaled glucocorticosteroids
+Isoetarine	DB00221	β2-agonists, short-acting
+Theophylline	DB00277	Methylxanthines long-acting
+Ipratropium bromide	DB00332	M-anticholinergics
+Beclometasone	DB00394	Inhaled glucocorticosteroids
+Betamethasone	DB00443	Inhaled glucocorticosteroids
+Montelukast	DB00471	Antileukotriene drugs
+Zafirlukast	DB00549	Antileukotriene drugs
+Fluticasone Propionate	DB00588	Inhaled glucocorticosteroids
+Triamcinolone	DB00620	Inhaled glucocorticosteroids
+Dyphylline	DB00651	Methylxanthines long-acting
+Epinephrine	DB00668	adrenergic agonists
+Nedocromil	DB00716	Cromones
+Zileuton	DB00744	Arachidonate 5-lipoxygenase inhibitors
+Mometasone	DB00764	Inhaled glucocorticosteroids
+Orciprenaline	DB00816	β2-agonists
+Enprofylline	DB00824	Xanthines
+Prednisolone	DB00860	Systemic glucocorticosteroids
+Terbutaline	DB00871	β2-agonists, short-acting
+Bitolterol	DB00901	β2-agonists, short-acting
+Ketotifen	DB00920	H1-antihistmine
+Salmeterol	DB00938	β2-agonists, long-acting
+Formoterol	DB00983	β2-agonists, long-acting
+Glycopyrronium bromide	DB00986	M-anticholinergics
+Salbutamol	DB01001	β2-agonists, short-acting
+Cromoglicate	DB01003	Cromones
+Amlexanox	DB01025	antiallergic drug
+Isoprenaline	DB01064	β-agonists, non-selective
+Budesonide	DB01222	Inhaled glucocorticosteroids
+Aminophylline	DB01223	Methylxanthines short-acting
+Fenoterol	DB01288	β2-agonists, short-acting
+Pirbuterol	DB01291	β2-agonists, short-acting
+Oxtriphylline	DB01303	Xanthines
+Procaterol	DB01366	β2-agonists, short-acting
+Clenbuterol	DB01407	β2-agonists, long-acting
+Bambuterol	DB01408	β2-agonists, short-acting
+Tiotropium	DB01409	M-anticholinergics
+Ciclesonide	DB01410	Inhaled glucocorticosteroids
+Pranlukast	DB01411	Antileukotriene drugs
+Roflumilast	DB01656	Non-xanthine PDE4 inhibitors
+Indacaterol	DB05039	β2-agonists, ultralong-acting
+Ibudilast	DB05266	Non-xanthine PDE4 inhibitors
+Tocilizumab	DB06273	Anti-IL6R mab
+Mepolizumab	DB06612	Anti-IL5 mab
+Aclidinium	DB08897	M-anticholinergics
+Fluticasone furoate	DB08906	Inhaled glucocorticosteroids
+Hexoprenaline	DB08957	β2-agonists
+Fenspiride	DB08979	H1-antihistmine
+Umeclidinium bromide	DB09076	M-anticholinergics
+Olodaterol	DB09080	β2-agonists, ultralong-acting
+Vilanterol	DB09082	β2-agonists, ultralong-acting
+Doxofylline	DB09273	Xanthines
+Levosalbutamol	DB13139	β2-agonists, short-acting
+Ephedra	DB01363	adrenergic agonists

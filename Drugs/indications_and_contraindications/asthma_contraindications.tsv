@@ -1,0 +1,26 @@
+drug_name	drugbank_id	comment	disease
+adenosine phosphate	DB00131	contraindicated_with	asthma
+adenosine triphosphate	DB00171	contraindicated_with	asthma
+cevimeline	DB00185	contraindicated_with	asthma
+morphine	DB00295	contraindicated_with	asthma
+hydromorphone	DB00327	contraindicated_with	asthma
+timolol	DB00373	contraindicated_with	asthma
+sodium tetradecyl sulfate	DB00464	contraindicated_with	asthma
+sotalol	DB00489	contraindicated_with	asthma
+oxycodone	DB00497	contraindicated_with	asthma
+carteolol	DB00521	contraindicated_with	asthma
+doxapram	DB00561	contraindicated_with	asthma
+propranolol	DB00571	contraindicated_with	asthma
+diclofenac	DB00586	contraindicated_with	asthma
+labetalol	DB00598	contraindicated_with	asthma
+adenosine	DB00640	contraindicated_with	asthma
+dinoprostone	DB00917	contraindicated_with	asthma
+aspirin	DB00945	contraindicated_with	asthma
+pindolol	DB00960	contraindicated_with	asthma
+physostigmine	DB00981	contraindicated_with	asthma
+ibuprofen	DB01050	contraindicated_with	asthma
+pilocarpine	DB01085	contraindicated_with	asthma
+carvedilol	DB01136	contraindicated_with	asthma
+propafenone	DB01182	contraindicated_with	asthma
+nadolol	DB01203	contraindicated_with	asthma
+penbutolol	DB01359	contraindicated_with	asthma

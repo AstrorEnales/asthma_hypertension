@@ -1,0 +1,97 @@
+drug_name	drugbank_id	group
+Valsartan	DB00177	Angiotensin II receptor antagonists
+Ramipril	DB00178	ACE inhibitors
+Esmolol	DB00187	Beta-adrenergic blocking agents
+Betaxolol	DB00195	Beta-adrenergic blocking agents
+Reserpine	DB00206	Adrenergic uptake inhibitor
+Remikiren	DB00212	Renin inhibitors
+Torasemide	DB00214	Diuretics
+Guanadrel	DB00226	Adrenergic release inhibitors
+Metoprolol	DB00264	Beta-adrenergic blocking agents
+Isradipine	DB00270	Calcium channel-blocking agents
+Olmesartan	DB00275	Angiotensin II receptor antagonists
+Chlorthalidone	DB00310	Diuretics
+Nitroprusside	DB00325	Vasodilators - natriuretic peptide receptor agonist
+Atenolol	DB00335	Beta-adrenergic blocking agents
+Diltiazem	DB00343	Calcium channel-blocking agents
+Minoxidil	DB00350	Potassium channel opener
+Timolol	DB00373	Beta-adrenergic blocking agents
+Amlodipine	DB00381	Calcium channel-blocking agents
+Triamterene	DB00384	Diuretics
+Nimodipine	DB00393	Calcium channel-blocking agents
+Spironolactone	DB00421	Diuretics
+Bendroflumethiazide	DB00436	Diuretics
+Prazosin	DB00457	Alpha-1 blockers
+Sotalol	DB00489	Beta-adrenergic blocking agents
+Fosinopril	DB00492	ACE inhibitors
+Trandolapril	DB00519	ACE inhibitors
+Metolazone	DB00524	Diuretics
+Lercanidipine	DB00528	Calcium channel-blocking agents
+Benazepril	DB00542	ACE inhibitors
+Propranolol	DB00571	Beta-adrenergic blocking agents
+Clonidine	DB00575	Alpha-2 blockers,Imidazoline receptor agonist
+Enalapril	DB00584	ACE inhibitors
+Doxazosin	DB00590	Alpha-1 blockers
+Amiloride	DB00594	Diuretics
+Labetalol	DB00598	Beta-adrenergic blocking agents
+Bisoprolol	DB00612	Beta-adrenergic blocking agents
+Nicardipine	DB00622	Calcium channel-blocking agents
+Guanabenz	DB00629	Alpha-2 blockers
+Mecamylamine	DB00657	Ganglion-blocking/nicotinic antagonist
+Verapamil	DB00661	Calcium channel-blocking agents
+Losartan	DB00678	Angiotensin II receptor antagonists
+Moexipril	DB00691	ACE inhibitors
+Phentolamine	DB00692	Alpha-1 blockers,Alpha-2 blockers
+Furosemide	DB00695	Diuretics
+Eplerenone	DB00700	Diuretics
+Lisinopril	DB00722	ACE inhibitors
+Mannitol	DB00742	Diuretics
+Perindopril	DB00790	ACE inhibitors
+Candesartan	DB00796	Angiotensin II receptor antagonists
+Tolazoline	DB00797	Alpha-1 blockers,Alpha-2 blockers
+Indapamide	DB00808	Diuretics
+Eprosartan	DB00876	Angiotensin II receptor antagonists
+Chlorothiazide	DB00880	Diuretics
+Quinapril	DB00881	ACE inhibitors
+Bumetanide	DB00887	Diuretics
+Etacrynic acid	DB00903	Diuretics
+Phenoxybenzamine	DB00925	Alpha-1 blockers,Alpha-2 blockers
+Pindolol	DB00960	Beta-adrenergic blocking agents
+Telmisartan	DB00966	Angiotensin II receptor antagonists
+Methyldopa	DB00968	Alpha-2 blockers
+Hydrochlorothiazide	DB00999	Diuretics
+Guanfacine	DB01018	Alpha-2 blockers
+Felodipine	DB01023	Calcium channel-blocking agents
+Irbesartan	DB01029	Angiotensin II receptor antagonists
+Nitrendipine	DB01054	Calcium channel-blocking agents
+Deserpidine	DB01089	Adrenergic uptake inhibitor
+Pentolinium	DB01090	Ganglion-blocking/nicotinic antagonist
+Nifedipine	DB01115	Calcium channel-blocking agents
+Trimethaphan	DB01116	Ganglion-blocking/nicotinic antagonist
+Carvedilol	DB01136	Beta-adrenergic blocking agents
+Bretylium	DB01158	Adrenergic release inhibitors
+Terazosin	DB01162	Alpha-1 blockers
+Guanethidine	DB01170	Adrenergic release inhibitors
+Rescinnamine	DB01180	ACE inhibitors
+Acebutolol	DB01193	Beta-adrenergic blocking agents
+Captopril	DB01197	ACE inhibitors
+Nadolol	DB01203	Beta-adrenergic blocking agents
+Metipranolol	DB01214	Beta-adrenergic blocking agents
+Hydralazine	DB01275	Vasodilators
+Cilazapril	DB01340	ACE inhibitors
+Spirapril	DB01348	ACE inhibitors
+Tasosartan	DB01349	Angiotensin II receptor antagonists
+Oxprenolol	DB01580	Beta-adrenergic blocking agents
+Pargyline	DB01626	MAO inhibitors
+Sorbitol	DB01638	Diuretics
+Urea	DB03904	Diuretics
+Celiprolol	DB04846	Beta-adrenergic blocking agents
+Nebivolol	DB04861	Beta-adrenergic blocking agents
+CYT006-AngQb	DB05739	Anti-AGTR vaccine
+Azilsartan medoxomil	DB08822	Angiotensin II receptor antagonists
+Temocapril	DB08836	ACE inhibitors
+Aliskiren	DB09026	Renin inhibitors
+Lacidipine	DB09236	Calcium channel-blocking agents
+Moxonidine	DB09242	Imidazoline receptor agonist
+Sacubitril	DB09292	Neprilysin inhibitor
+Enalaprilat	DB09477	ACE inhibitors
